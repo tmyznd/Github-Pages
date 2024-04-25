@@ -3,9 +3,29 @@ title: "ここにページのタイトル"
 author: default
 permalink: /
 ---
+# Aliexpressのイロハ
+![image](https://ja.wikipedia.org/wiki/AliExpress#/media/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Aliexpress_logo.svg)
+> みんなもAliexpressの沼にハマらないか？
+
+皆さん、通販をしている時にこんな悩みはありませんか？
+**「欲しい商品が売ってない…」**
+**「もっと尖った商品が欲しい！」**
+
+そんな時は**Aliexpress**を使いましょう！
+以下ではAliexpressの特徴を簡単に紹介します。
+ここで学んで良い通販生活を送りましょう！
+
+## Aliexpressとは？
+Aliexpressとは、中国に拠点を置くアリババグループによって運営されている、世界最大規模のECサイトです。グローバルに展開されている為、**越境ECサイト**と呼ばれています。
+
+| 名前  | URL  |
+|-----|-----|
+| Aliexpress  | https://www.aliexpress.com/index.html  |
+> 参考 [Wikipedeia](https://www.aliexpress.com/index.html)
+
+## Aliexpressの特徴
 
 
-Hello world!
 
 
 
