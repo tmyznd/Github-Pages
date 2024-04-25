@@ -4,7 +4,7 @@ author: default
 permalink: /
 ---
 # Aliexpressってなーに？
-![image](https://ja.wikipedia.org/wiki/AliExpress#/media/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Aliexpress_logo.svg)
+<!-- ![image](https://ja.wikipedia.org/wiki/AliExpress#/media/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Aliexpress_logo.svg) -->
 <img href="https://ja.wikipedia.org/wiki/AliExpress#/media/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Aliexpress_logo.svg"></img>
 > みんなもAliexpressの沼にハマらないか？
 
@@ -19,10 +19,12 @@ permalink: /
 ここで学んで良い通販生活を送りましょう！  
 
 ## Aliexpressとは？
-Aliexpressとは、中国に拠点を置くアリババグループによって運営されている、世界最大規模のECサイトです。グローバルに展開されている為、**越境ECサイト**と呼ばれています。
+Aliexpressとは、中国に拠点を置くアリババグループによって運営されている、世界最大規模のECサイトです。
+
+グローバルに展開されていることから、**越境ECサイト**と呼ばれています。
 
 | 名前  | URL  |
-| ----- | ----- |
+|-----|-----|
 | Aliexpress  | https://www.aliexpress.com/index.html  |
 > 参考 [Wikipedeia](https://ja.wikipedia.org/wiki/AliExpress)
 
@@ -44,7 +46,7 @@ Aliexpressの特徴は大きく二つです。
 これらの注意点があることは頭に置いておきましょう
 
 ## まとめ
-> Aliexpressは宝の宝庫なのだよ（by 自分）
+> Aliexpressは宝の宝庫なのだよ
 
 一見得体のしれない通販サイト**Aliexpress**ですが、注意点に気を付ければいろいろな商品を買えるようになります。
 
