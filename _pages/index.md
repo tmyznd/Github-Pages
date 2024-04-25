@@ -23,7 +23,7 @@ Aliexpressとは、中国に拠点を置くアリババグループによって�
 | 名前  | URL  |
 |-----|-----|
 | Aliexpress  | https://www.aliexpress.com/index.html  |
-> 参考 [Wikipedeia](https://www.aliexpress.com/index.html)
+> 参考 [Wikipedeia](https://ja.wikipedia.org/wiki/AliExpress)
 
 ## Aliexpressの特徴
 Aliexpressの特徴は大きく二つです。  
