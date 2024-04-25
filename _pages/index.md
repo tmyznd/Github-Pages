@@ -14,15 +14,15 @@ permalink: /
 
 **「もっと尖った商品が欲しい！」**
   
-そんな時は**Aliexpress**を使いましょう！　　
-以下ではAliexpressの特徴を簡単に紹介します。　　
-ここで学んで良い通販生活を送りましょう！
+そんな時は**Aliexpress**を使いましょう！  
+以下ではAliexpressの特徴を簡単に紹介します。  
+ここで学んで良い通販生活を送りましょう！  
 
 ## Aliexpressとは？
 Aliexpressとは、中国に拠点を置くアリババグループによって運営されている、世界最大規模のECサイトです。グローバルに展開されている為、**越境ECサイト**と呼ばれています。
 
 | 名前  | URL  |
-|-----|-----|
+| ----- | ----- |
 | Aliexpress  | https://www.aliexpress.com/index.html  |
 > 参考 [Wikipedeia](https://ja.wikipedia.org/wiki/AliExpress)
 
